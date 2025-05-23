@@ -1,1 +1,4 @@
 ffmpeg
+build-essential
+cmake
+g++
