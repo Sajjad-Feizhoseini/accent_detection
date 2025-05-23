@@ -1,0 +1,8 @@
+streamlit
+pydub
+speechbrain
+librosa
+numpy
+requests
+torchaudio
+ffmpeg-python
